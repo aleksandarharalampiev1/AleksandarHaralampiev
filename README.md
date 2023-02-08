@@ -6,7 +6,7 @@
 -- Photo Editing
 - 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me:
-discord- yobo#8948
+discord- alek#4521
 
 <!---
 AleksandarHaralampiev/AleksandarHaralampiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
